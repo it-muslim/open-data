@@ -1,0 +1,7277 @@
+[
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Abazins",
+                "male_name": "Abazin",
+                "female_name": "Abazin"
+            },
+            "ru": {
+                "plural_name": "Абазины",
+                "male_name": "Абазин",
+                "female_name": "Абазинка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Abkhazians",
+                "male_name": "Abkhazian",
+                "female_name": "Abkhazian"
+            },
+            "ru": {
+                "plural_name": "Абхазы",
+                "male_name": "Абхазцы",
+                "female_name": "Абхазка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Acehnese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ачех",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Acholi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ачоли",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Afemai",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Афемали",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Afar",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Афар",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Afrikaners",
+                "male_name": "Afrikaner",
+                "female_name": "Afrikaner"
+            },
+            "ru": {
+                "plural_name": "Африканер",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Agaw",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Агау",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ahom",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ахом",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Aimaq",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Чарамайки",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Aja",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Аджа",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Adjoukrou",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Аджукру",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Akan",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Аканы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Akha",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Акха",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Albanians",
+                "male_name": "Albanian",
+                "female_name": "Albanian"
+            },
+            "ru": {
+                "plural_name": "Албанцы",
+                "male_name": "Албанец",
+                "female_name": "Албанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Alur",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Алур",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ambonese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Амбонцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ambundu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Амбунду",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Amhara",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Амхара",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Amis",
+                "male_name": "Ami",
+                "female_name": "Ami"
+            },
+            "ru": {
+                "plural_name": "Ами",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Anaang",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ананг",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Anuak",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ануак",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Apache",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Апачи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Arabs",
+                "male_name": "Arab",
+                "female_name": "Arab"
+            },
+            "ru": {
+                "plural_name": "Арабы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Argobba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Аргобба",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Armenians",
+                "male_name": "Armenian",
+                "female_name": "Armenian"
+            },
+            "ru": {
+                "plural_name": "Армяне",
+                "male_name": "Армянин",
+                "female_name": "Армянка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Aromanians",
+                "male_name": "Aromanian",
+                "female_name": "Aromanian"
+            },
+            "ru": {
+                "plural_name": "Аромуны",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Assyrians",
+                "male_name": "Assyrian",
+                "female_name": "Assyrian"
+            },
+            "ru": {
+                "plural_name": "Ассирийцы",
+                "male_name": "Ассириец",
+                "female_name": "Ассирийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Atoni",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Атони",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Atyap",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Катаб",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Austrians",
+                "male_name": "Austrian",
+                "female_name": "Austrian"
+            },
+            "ru": {
+                "plural_name": "Австрийцы",
+                "male_name": "Австриец",
+                "female_name": "Австрийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Avars",
+                "male_name": "Avar",
+                "female_name": "Avar"
+            },
+            "ru": {
+                "plural_name": "Аварцы",
+                "male_name": "Аварец",
+                "female_name": "Аварка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Awadhis",
+                "male_name": "Awadhi",
+                "female_name": "Awadhi"
+            },
+            "ru": {
+                "plural_name": "Авадхи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Aymara",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Аймара",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Azerbaijanis",
+                "male_name": "Azerbaijani",
+                "female_name": "Azerbaijani"
+            },
+            "ru": {
+                "plural_name": "Азербайджанцы",
+                "male_name": "Азербайджанец",
+                "female_name": "Азербайджанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bahnar",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Банар",
+                "male_name": "Банарец",
+                "female_name": "Банарка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bai",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Бай",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bakossi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Бакосси",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Balanta",
+                "male_name": "Balantum",
+                "female_name": "Balantum"
+            },
+            "ru": {
+                "plural_name": "Баланте",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Balinese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Балийцы",
+                "male_name": "Балиец",
+                "female_name": "Балийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Balkars",
+                "male_name": "Balkar",
+                "female_name": "Balkar"
+            },
+            "ru": {
+                "plural_name": "Балкарцы",
+                "male_name": "Балкарец",
+                "female_name": "Балкарка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Balochs",
+                "male_name": "Baloch",
+                "female_name": "Baloch"
+            },
+            "ru": {
+                "plural_name": "Белуджи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Balti",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Балти",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bamars",
+                "male_name": "Bamar",
+                "female_name": "Bamar"
+            },
+            "ru": {
+                "plural_name": "Бирманцы",
+                "male_name": "Бирманец",
+                "female_name": "Бирманка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bambara",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Бамбара",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bamileke",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Бамилике",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bamum",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Banda",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Banjarese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Банджары",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bari",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bariba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bassa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bashkirs",
+                "male_name": "Bashkir",
+                "female_name": "Bashkir"
+            },
+            "ru": {
+                "plural_name": "Башкиры",
+                "male_name": "Башкир",
+                "female_name": "Башкирка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Basques",
+                "male_name": "Basque",
+                "female_name": "Basque"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Batak",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Beja",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Belarusians",
+                "male_name": "Belarusian",
+                "female_name": "Belarusian"
+            },
+            "ru": {
+                "plural_name": "Белорусы",
+                "male_name": "Белорус",
+                "female_name": "Белоруска"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bemba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bembe",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bengalis",
+                "male_name": "Bengali",
+                "female_name": "Bengali"
+            },
+            "ru": {
+                "plural_name": "Бенгальцы",
+                "male_name": "Бенгалец",
+                "female_name": "Бенгалка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Berbers",
+                "male_name": "Berber",
+                "female_name": "Berber"
+            },
+            "ru": {
+                "plural_name": "Берберцы",
+                "male_name": "Бербер",
+                "female_name": "Берберка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Berom",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Berta",
+                "male_name": "Bertum",
+                "female_name": "Bertum"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Betawis",
+                "male_name": "Betawi",
+                "female_name": "Betawi"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Beti",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bhils",
+                "male_name": "Bhil",
+                "female_name": "Bhil"
+            },
+            "ru": {
+                "plural_name": "Бхилы",
+                "male_name": "Бхилаец",
+                "female_name": "Бхилайка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bhojpuris",
+                "male_name": "Bhojpuri",
+                "female_name": "Bhojpuri"
+            },
+            "ru": {
+                "plural_name": "Бходжпурийцы",
+                "male_name": "Бходжпур",
+                "female_name": "Бходжпурка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bhumij",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bicolanos",
+                "male_name": "Bicolano",
+                "female_name": "Bicolano"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bidayuh",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bilala",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bishnupriya Manipuris",
+                "male_name": "Bishnupriya Manipuri",
+                "female_name": "Bishnupriya Manipuri"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bissa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Blaan",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Boa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bodo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bosniaks",
+                "male_name": "Bosniak",
+                "female_name": "Bosniak"
+            },
+            "ru": {
+                "plural_name": "Босняки",
+                "male_name": "Босняк",
+                "female_name": "Боснянка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bouyei",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bozo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Brahuis",
+                "male_name": "Brahui",
+                "female_name": "Brahui"
+            },
+            "ru": {
+                "plural_name": "Брагуи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bretons",
+                "male_name": "Breton",
+                "female_name": "Breton"
+            },
+            "ru": {
+                "plural_name": "Бретонцы",
+                "male_name": "Бретонец",
+                "female_name": "Бретонка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bru",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Budu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Buduma",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Будумцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Buginese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Бугийцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bulgarians",
+                "male_name": "Bulgarian",
+                "female_name": "Bulgarian"
+            },
+            "ru": {
+                "plural_name": "Болгары",
+                "male_name": "Болгарин",
+                "female_name": "Болгарка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Burusho",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Butonese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Bwa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Catalans",
+                "male_name": "Catalan",
+                "female_name": "Catalan"
+            },
+            "ru": {
+                "plural_name": "Каталонцы",
+                "male_name": "Каталонец",
+                "female_name": "Каталонка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chamorro",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chams",
+                "male_name": "Cham",
+                "female_name": "Cham"
+            },
+            "ru": {
+                "plural_name": "Тямы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chechens",
+                "male_name": "Chechen",
+                "female_name": "Chechen"
+            },
+            "ru": {
+                "plural_name": "Чеченцы",
+                "male_name": "Чеченец",
+                "female_name": "Чеченка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Cherokee",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chin",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Choctaw",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chokwe",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chutiya",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chuukese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chuvash",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Чуваши",
+                "male_name": "Чуваш",
+                "female_name": "Чувашка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Circassians",
+                "male_name": "Circassian",
+                "female_name": "Circassian"
+            },
+            "ru": {
+                "plural_name": "Черкесы \/ адыги",
+                "male_name": "Черкес (адыг)",
+                "female_name": "Черкешенка (адыгейка)"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chakmas",
+                "male_name": "Chakma",
+                "female_name": "Chakma"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Chewa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Cornish",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Корнцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Corsicans",
+                "male_name": "Corsican",
+                "female_name": "Corsican"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Cree",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Croats",
+                "male_name": "Croat",
+                "female_name": "Croat"
+            },
+            "ru": {
+                "plural_name": "Хорваты",
+                "male_name": "Хорват",
+                "female_name": "Хорватка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Cuyunon",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Czechs",
+                "male_name": "Czech",
+                "female_name": "Czech"
+            },
+            "ru": {
+                "plural_name": "Чехи",
+                "male_name": "Чех",
+                "female_name": "Чешка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dagaaba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dagombas",
+                "male_name": "Dagomba",
+                "female_name": "Dagomba"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Damara",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Danes",
+                "male_name": "Dane",
+                "female_name": "Dane"
+            },
+            "ru": {
+                "plural_name": "Датчане",
+                "male_name": "Датчанин",
+                "female_name": "Датчанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dargins",
+                "male_name": "Dargin",
+                "female_name": "Dargin"
+            },
+            "ru": {
+                "plural_name": "Даргинцы",
+                "male_name": "Даргинец",
+                "female_name": "Даргинка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dinka",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dogon",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dogra",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dongxiangs",
+                "male_name": "Dongxiang",
+                "female_name": "Dongxiang"
+            },
+            "ru": {
+                "plural_name": "Дунсян",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dubla",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dutch",
+                "male_name": "Dutchman",
+                "female_name": "Dutchwoman"
+            },
+            "ru": {
+                "plural_name": "Нидерландцы (голландцы)",
+                "male_name": "Нидерландец (голландец)",
+                "female_name": "Нидерландка (голландка)"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Dyula",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Дьюла",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ebira",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Edo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Эдо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Efik",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Эфик",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Egyptians",
+                "male_name": "Egyptian",
+                "female_name": "Egyptian"
+            },
+            "ru": {
+                "plural_name": "Египтяне",
+                "male_name": "Египтянин",
+                "female_name": "Египтянка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ekoi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Экои",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Emberá",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "English",
+                "male_name": "Englishman",
+                "female_name": "Englishwoman"
+            },
+            "ru": {
+                "plural_name": "Англичане",
+                "male_name": "Англичанин",
+                "female_name": "Англичанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Esan",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Estonians",
+                "male_name": "Estonian",
+                "female_name": "Estonian"
+            },
+            "ru": {
+                "plural_name": "Эстонцы",
+                "male_name": "Эстонец",
+                "female_name": "Эстонка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ewe",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Fang",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Fijians",
+                "male_name": "Fijian",
+                "female_name": "Fijian"
+            },
+            "ru": {
+                "plural_name": "Фиджийцы",
+                "male_name": "Фиджиец",
+                "female_name": "Фиджийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Finns",
+                "male_name": "Finn",
+                "female_name": "Finn"
+            },
+            "ru": {
+                "plural_name": "Финны",
+                "male_name": "Финн",
+                "female_name": "Финка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Flemings",
+                "male_name": "Fleming",
+                "female_name": "Fleming"
+            },
+            "ru": {
+                "plural_name": "Фламандцы",
+                "male_name": "Фламандец",
+                "female_name": "Фламандка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Fon",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "French",
+                "male_name": "Frenchman",
+                "female_name": "Frenchwoman"
+            },
+            "ru": {
+                "plural_name": "Французы",
+                "male_name": "Француз",
+                "female_name": "Француженка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Frisians",
+                "male_name": "Frisian",
+                "female_name": "Frisian"
+            },
+            "ru": {
+                "plural_name": "Фризы",
+                "male_name": "Фриз",
+                "female_name": "Фризка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Friulians",
+                "male_name": "Friulian",
+                "female_name": "Friulian"
+            },
+            "ru": {
+                "plural_name": "Фриулы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Fula",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Фульбе",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Fur",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Фор",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ga-Adangbe",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Га",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gagauz",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гагаузы",
+                "male_name": "Гагауз",
+                "female_name": "Гагаузка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Galicians",
+                "male_name": "Galician",
+                "female_name": "Galician"
+            },
+            "ru": {
+                "plural_name": "Галисийцы",
+                "male_name": "Галисиец",
+                "female_name": "Галисийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ganda",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ганда",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Garifuna",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Garos",
+                "male_name": "Garo",
+                "female_name": "Garo"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gayonese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гайо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gbagyi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гбари",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gbaya",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gedeo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gelao",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Georgians",
+                "male_name": "Georgian",
+                "female_name": "Georgian"
+            },
+            "ru": {
+                "plural_name": "Грузины",
+                "male_name": "Грузин",
+                "female_name": "Грузинка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Germans",
+                "male_name": "German",
+                "female_name": "German"
+            },
+            "ru": {
+                "plural_name": "Немцы",
+                "male_name": "Немец",
+                "female_name": "Немка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gola",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gonds",
+                "male_name": "Gond",
+                "female_name": "Gond"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gorontaloans",
+                "male_name": "Gorontaloan",
+                "female_name": "Gorontaloan"
+            },
+            "ru": {
+                "plural_name": "Горонтало",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Greeks",
+                "male_name": "Greek",
+                "female_name": "Greek"
+            },
+            "ru": {
+                "plural_name": "Греки",
+                "male_name": "Грек",
+                "female_name": "Гречанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Guan",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гуан",
+                "male_name": "Гуанец",
+                "female_name": "Гуанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Guaraní",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гуарани",
+                "male_name": "Гуараниец",
+                "female_name": "Гуаранийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gujarati",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гуджаратцы",
+                "male_name": "Гуджаратец",
+                "female_name": "Гуджаратка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gumuz",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гумуз",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gurage",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гураге",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gurma",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гурма",
+                "male_name": "Гурманка",
+                "female_name": "Гурманец"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Gurunsi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Гурунси",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Hadiya",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Хадия",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Han Chinese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Хань",
+                "male_name": "Ханец",
+                "female_name": "Ханийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Hani",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Хани",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Harari",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Харари",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Hausa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Хауса",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Hawaiians",
+                "male_name": "Hawaiian",
+                "female_name": "Hawaiian"
+            },
+            "ru": {
+                "plural_name": "Гавайцы",
+                "male_name": "Гаваец",
+                "female_name": "Гавайка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Hazaras",
+                "male_name": "Hazara",
+                "female_name": "Hazara"
+            },
+            "ru": {
+                "plural_name": "Хазарейцы",
+                "male_name": "Хазареец",
+                "female_name": "Хазарейка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Herero",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Hmong",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Huli",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Hungarians",
+                "male_name": "Hungarian",
+                "female_name": "Hungarian"
+            },
+            "ru": {
+                "plural_name": "Венгры",
+                "male_name": "Венгр",
+                "female_name": "Венгерка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Hutu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Хуту",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Iban",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ибаны",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ibanag",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ибанаг",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ibibio",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ибибио",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Icelanders",
+                "male_name": "Icelander",
+                "female_name": "Icelander"
+            },
+            "ru": {
+                "plural_name": "Исландцы",
+                "male_name": "Исландец",
+                "female_name": "Исландка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Idoma",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Идома",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Igbo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Игбо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Igede",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Игеде",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Igorot",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Игороты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ijaw",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Иджо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ilocano",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Илоки",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ingush",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ингуши",
+                "male_name": "Ингуш",
+                "female_name": "Ингушка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Inuit",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Инуиты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Iranun",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Иранун",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Irish",
+                "male_name": "Irishman",
+                "female_name": "Irishwoman"
+            },
+            "ru": {
+                "plural_name": "Ирландцы",
+                "male_name": "Ирландец",
+                "female_name": "Ирландка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Iroquois",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ирокезы",
+                "male_name": "Ирокезы",
+                "female_name": "Ирокезка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Isan",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Исан",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Isoko",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Italians",
+                "male_name": "Italian",
+                "female_name": "Italian"
+            },
+            "ru": {
+                "plural_name": "Итальянцы",
+                "male_name": "Итальянец",
+                "female_name": "Итальянка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Itawes",
+                "male_name": "Itawe",
+                "female_name": "Itawe"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Japanese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Японцы",
+                "male_name": "Японец",
+                "female_name": "Японка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Jarai",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Зярай",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Javanese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Яванцы",
+                "male_name": "Яванец",
+                "female_name": "Яванка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Jews",
+                "male_name": "Jew",
+                "female_name": "Jew"
+            },
+            "ru": {
+                "plural_name": "Евреи",
+                "male_name": "Еврей",
+                "female_name": "Еврейка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Jingpo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Качины",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Jola",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Диола",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Jukun",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Джукун",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kadazan-Dusun",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кадазан-дусун",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kalanga",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kalenjin",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Календжин",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kalinago",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kamba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kanaks",
+                "male_name": "Kanak",
+                "female_name": "Kanak"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kannadigas",
+                "male_name": "Kannadiga",
+                "female_name": "Kannadiga"
+            },
+            "ru": {
+                "plural_name": "Каннара",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kanuri",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Канури",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kapampangans",
+                "male_name": "Kapampangan",
+                "female_name": "Kapampangan"
+            },
+            "ru": {
+                "plural_name": "Пампанган",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kapsiki",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Karachays",
+                "male_name": "Karachay",
+                "female_name": "Karachay"
+            },
+            "ru": {
+                "plural_name": "Карачаевцы",
+                "male_name": "Карачаевец",
+                "female_name": "Карачаевка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Karakalpaks",
+                "male_name": "Karakalpak",
+                "female_name": "Karakalpak"
+            },
+            "ru": {
+                "plural_name": "Каракалпаки",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Karbi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Микир",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Karen",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Карены",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kashmiris",
+                "male_name": "Kashmiri",
+                "female_name": "Kashmiri"
+            },
+            "ru": {
+                "plural_name": "Кашмирцы",
+                "male_name": "Кашмирец",
+                "female_name": "Кашмирка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kashubians",
+                "male_name": "Kashubian",
+                "female_name": "Kashubian"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kazakhs",
+                "male_name": "Kazakh",
+                "female_name": "Kazakh"
+            },
+            "ru": {
+                "plural_name": "Казахи",
+                "male_name": "Казах",
+                "female_name": "Казашка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Khas",
+                "male_name": "Kha",
+                "female_name": "Kha"
+            },
+            "ru": {
+                "plural_name": "Кхасы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Khmer",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кхмеры",
+                "male_name": "Кхмер",
+                "female_name": "Кхмерка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Khonds",
+                "male_name": "Khond",
+                "female_name": "Khond"
+            },
+            "ru": {
+                "plural_name": "Кхонды",
+                "male_name": "Кхонд",
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Khorasani Turks",
+                "male_name": "Khorasani Turk",
+                "female_name": "Khorasani Turk"
+            },
+            "ru": {
+                "plural_name": "Хорасанские тюрки",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kikuyu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кикуйю",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kilba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кильба",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kirati",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кираты",
+                "male_name": "Киратыец",
+                "female_name": "Киратыйка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kissi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кисси",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kofyar",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кофьяр",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Komi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Коми",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Konkani",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Конкани",
+                "male_name": "Конканиец",
+                "female_name": "Конканийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kongo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Конго",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Konjo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Конджо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Konso",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Консо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Koreans",
+                "male_name": "Korean",
+                "female_name": "Korean"
+            },
+            "ru": {
+                "plural_name": "Корейцы",
+                "male_name": "Кореец",
+                "female_name": "Кореянка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kpelle",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кпелле",
+                "male_name": "Конголезец",
+                "female_name": "Конголезка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kposo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кросо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kru",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кру",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kumyks",
+                "male_name": "Kumyk",
+                "female_name": "Kumyk"
+            },
+            "ru": {
+                "plural_name": "Кумыки",
+                "male_name": "Кумык",
+                "female_name": "Кумычка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kunama",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kurds",
+                "male_name": "Kurd",
+                "female_name": "Kurd"
+            },
+            "ru": {
+                "plural_name": "Курды",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kurukh",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Курух",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kuteb",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Kyrgyz",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Киргизы",
+                "male_name": "Киргиз",
+                "female_name": "Киргизска"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Laks",
+                "male_name": "Lak",
+                "female_name": "Lak"
+            },
+            "ru": {
+                "plural_name": "Лакцы",
+                "male_name": "Лакец",
+                "female_name": "Лачка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Lamaholot",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Солорейцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Lampungs",
+                "male_name": "Lampung",
+                "female_name": "Lampung"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Lao",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Лаосцы",
+                "male_name": "Лаосец",
+                "female_name": "Лаоска"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Latvians",
+                "male_name": "Latvian",
+                "female_name": "Latvian"
+            },
+            "ru": {
+                "plural_name": "Латыши",
+                "male_name": "Латыш",
+                "female_name": "Латышка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Laz",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": "Лаз",
+                "female_name": "Лазска"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Lega",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Леги",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Lezgins",
+                "male_name": "Lezgin",
+                "female_name": "Lezgin"
+            },
+            "ru": {
+                "plural_name": "Лезгины",
+                "male_name": "Лезгин",
+                "female_name": "Лезгинка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Li",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Limba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Камеруны",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Lisu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Лису",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Lithuanians",
+                "male_name": "Lithuanian",
+                "female_name": "Lithuanian"
+            },
+            "ru": {
+                "plural_name": "Литовцы",
+                "male_name": "Литовец",
+                "female_name": "Литовка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Luba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Люба",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Luhya",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Лухья",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Luo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ло",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Lurs",
+                "male_name": "Lur",
+                "female_name": "Lur"
+            },
+            "ru": {
+                "plural_name": "Луры",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Luxembourgers",
+                "male_name": "Luxembourger",
+                "female_name": "Luxembourger"
+            },
+            "ru": {
+                "plural_name": "Люксембуржцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Maasai",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Масаи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Macedonians",
+                "male_name": "Macedonian",
+                "female_name": "Macedonian"
+            },
+            "ru": {
+                "plural_name": "Македонцы",
+                "male_name": "Македонец",
+                "female_name": "Македонка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Madi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мади",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Madurese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мадурцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mafa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Magahi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Махадхи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Magars",
+                "male_name": "Magar",
+                "female_name": "Magar"
+            },
+            "ru": {
+                "plural_name": "Магары",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Maguindanao",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Maithils",
+                "male_name": "Maithil",
+                "female_name": "Maithil"
+            },
+            "ru": {
+                "plural_name": "Майтилы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Makassarese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Макассары",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Makonde",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Маконде",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Makua",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Макуа",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Malagasy",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Малагасийцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Malays",
+                "male_name": "Malay",
+                "female_name": "Malay"
+            },
+            "ru": {
+                "plural_name": "Малайцы",
+                "male_name": "Малайец",
+                "female_name": "Малайка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Malayali",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Maldivians",
+                "male_name": "Maldivian",
+                "female_name": "Maldivian"
+            },
+            "ru": {
+                "plural_name": "Мальдивцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Maltese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мальты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mambila",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мамбильцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Manchu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Маньджу",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mandarese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mandinka",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мандинка",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Manggarai",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мангарайцы",
+                "male_name": "Мангараец",
+                "female_name": "Мангарайка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Manjak",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Māori",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Маори",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mapuche",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мапуче",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Maranao",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Маранао",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Marathi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Маратхи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mari",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Masa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Masalit",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Масалиты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Maya",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мая",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mazahua",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Масахуа",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mazatec",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Масатеки",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mbaka",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мбака",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mehri",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мехри",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Meitei",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мейтеи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Melanau",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Меланау",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mende",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Менде",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Miꞌkmaq",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Микмак",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mien",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Яо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mijikenda",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Миджикенда",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Minahasan",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Минахасаны",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Minangkabau",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Минангкабау",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mising",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Miskito",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мискиты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mixe",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mixtec",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Миштеки",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mon",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mongo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Монго",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mongols",
+                "male_name": "Mongol",
+                "female_name": "Mongol"
+            },
+            "ru": {
+                "plural_name": "Монголы",
+                "male_name": "Монгол",
+                "female_name": "Монголка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mongondow",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Монгонды",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Montenegrins",
+                "male_name": "Montenegrin",
+                "female_name": "Montenegrin"
+            },
+            "ru": {
+                "plural_name": "Черногорцы",
+                "male_name": "Черногорец",
+                "female_name": "Черногорка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mordvins",
+                "male_name": "Mordvin",
+                "female_name": "Mordvin"
+            },
+            "ru": {
+                "plural_name": "Мордва",
+                "male_name": "Мордвин",
+                "female_name": "Мордовка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mossi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мосси",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mumuye",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мумии",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Munanese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mundas",
+                "male_name": "Munda",
+                "female_name": "Munda"
+            },
+            "ru": {
+                "plural_name": "Мунда",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Murut",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Муруты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Muscogee",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мускоджи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Musgum",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Mwera",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Мвера",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Naga",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Нага",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nagpuri",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nahuas",
+                "male_name": "Nahua",
+                "female_name": "Nahua"
+            },
+            "ru": {
+                "plural_name": "Науа",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nama",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Navajo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Навахо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Newar",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Невары",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ngaju",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Нгаджу",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ngalop",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Нгалоп",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ngbandi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Нгабанди",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nias",
+                "male_name": "Nia",
+                "female_name": "Nia"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nogais",
+                "male_name": "Nogai",
+                "female_name": "Nogai"
+            },
+            "ru": {
+                "plural_name": "Ногайцы",
+                "male_name": "Ногаец",
+                "female_name": "Ногайка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Norwegians",
+                "male_name": "Norwegian",
+                "female_name": "Norwegian"
+            },
+            "ru": {
+                "plural_name": "Норвежцы",
+                "male_name": "Норвежец",
+                "female_name": "Норвежка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nubians",
+                "male_name": "Nubian",
+                "female_name": "Nubian"
+            },
+            "ru": {
+                "plural_name": "Нубийцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nuer",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nùng",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Нунг",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nuristanis",
+                "male_name": "Nuristani",
+                "female_name": "Nuristani"
+            },
+            "ru": {
+                "plural_name": "Нуристанцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Nyishi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ньиши",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Occitans",
+                "male_name": "Occitan",
+                "female_name": "Occitan"
+            },
+            "ru": {
+                "plural_name": "Оккиты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Odia",
+                "male_name": "Odium",
+                "female_name": "Odium"
+            },
+            "ru": {
+                "plural_name": "Одиа",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ogoni",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Огони",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ojibwe",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Oromo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кушиты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ossetians",
+                "male_name": "Ossetian",
+                "female_name": "Ossetian"
+            },
+            "ru": {
+                "plural_name": "Осетины",
+                "male_name": "Осетин",
+                "female_name": "Осетинка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ot Danum",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Otomi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Отоми",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ovambo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Овамбо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ovimbundu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Овимбунду",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Pa'O",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Pamiris",
+                "male_name": "Pamiri",
+                "female_name": "Pamiri"
+            },
+            "ru": {
+                "plural_name": "Памирцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Pangasinese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Пангасинцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Papel",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Pare",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Pashayi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Пашаи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Pashtuns",
+                "male_name": "Pashtun",
+                "female_name": "Pashtun"
+            },
+            "ru": {
+                "plural_name": "Пуштуны",
+                "male_name": "Пуштун",
+                "female_name": "Пуштунка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Pedi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Pende",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Пенде",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Persians",
+                "male_name": "Persian",
+                "female_name": "Persian"
+            },
+            "ru": {
+                "plural_name": "Персы",
+                "male_name": "Перс",
+                "female_name": "Персиянка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Poles",
+                "male_name": "Pole",
+                "female_name": "Pole"
+            },
+            "ru": {
+                "plural_name": "Поляки",
+                "male_name": "Поляк",
+                "female_name": "Полячка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Portuguese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Португальцы",
+                "male_name": "Португалец",
+                "female_name": "Португалка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Punjabis",
+                "male_name": "Punjabi",
+                "female_name": "Punjabi"
+            },
+            "ru": {
+                "plural_name": "Пенджабцы",
+                "male_name": "Пенджабец",
+                "female_name": "Пенджабка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Purépecha",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Пурепеча",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Qashqai",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кашкай",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Qiang",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Цян",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Quechua",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Кечуа",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Rade",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Раде",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Rajasthanis",
+                "male_name": "Rajasthani",
+                "female_name": "Rajasthani"
+            },
+            "ru": {
+                "plural_name": "Раджастаны",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Rajbongshi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Раджбон-ши",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Rakhine",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ракхайны",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Rejangese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Реджанг",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Rohingyas",
+                "male_name": "Rohingya",
+                "female_name": "Rohingya"
+            },
+            "ru": {
+                "plural_name": "Рохинджа",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Roma",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Цыгане",
+                "male_name": "Цыган",
+                "female_name": "Цыганка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Romanians",
+                "male_name": "Romanian",
+                "female_name": "Romanian"
+            },
+            "ru": {
+                "plural_name": "Румыны",
+                "male_name": "Румын",
+                "female_name": "Румынка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Russians",
+                "male_name": "Russian",
+                "female_name": "Russian"
+            },
+            "ru": {
+                "plural_name": "Русские",
+                "male_name": "Русский",
+                "female_name": "Русская"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ryukyuans",
+                "male_name": "Ryukyuan",
+                "female_name": "Ryukyuan"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Rusyns",
+                "male_name": "Rusyn",
+                "female_name": "Rusyn"
+            },
+            "ru": {
+                "plural_name": "Русины",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Saho",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сахо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Salar",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Салары",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sama-Bajau",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сама-баджау",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sambal",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sámi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Саами",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Samoans",
+                "male_name": "Samoan",
+                "female_name": "Samoan"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sangirese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Santal",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sara",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sardinians",
+                "male_name": "Sardinian",
+                "female_name": "Sardinian"
+            },
+            "ru": {
+                "plural_name": "Сардинцы",
+                "male_name": "Сардинец",
+                "female_name": "Сардинянка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sasak",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сасаки",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Savu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Хаву",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Scots",
+                "male_name": "Scotsman",
+                "female_name": "Scotswoman"
+            },
+            "ru": {
+                "plural_name": "Шотландцы",
+                "male_name": "Шотландец",
+                "female_name": "Шотландка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Senufo",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сенуфо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Serbs",
+                "male_name": "Serb",
+                "female_name": "Serb"
+            },
+            "ru": {
+                "plural_name": "Сербы",
+                "male_name": "Серб",
+                "female_name": "Сербка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Serer",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Серер",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Shan",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Шаны",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sharchops",
+                "male_name": "Sharchop",
+                "female_name": "Sharchop"
+            },
+            "ru": {
+                "plural_name": "Шарчоб",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sherbro",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Буллом",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Shilluk",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Шиллук",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Shona",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Шона",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sibe",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сибо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sidama",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сидамо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Siddi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сидди",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sika",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сикка",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Silesians",
+                "male_name": "Silesian",
+                "female_name": "Silesian"
+            },
+            "ru": {
+                "plural_name": "Силезцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Silt'e",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sindhis",
+                "male_name": "Sindhi",
+                "female_name": "Sindhi"
+            },
+            "ru": {
+                "plural_name": "Синдхи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sinhalese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сингалы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sioux",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сиу",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Slovaks",
+                "male_name": "Slovak",
+                "female_name": "Slovak"
+            },
+            "ru": {
+                "plural_name": "Словаки",
+                "male_name": "Словак",
+                "female_name": "Словачка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Slovenes",
+                "male_name": "Slovene",
+                "female_name": "Slovene"
+            },
+            "ru": {
+                "plural_name": "Словены",
+                "male_name": "Словенец",
+                "female_name": "Словенка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Soga",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сога",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Somalis",
+                "male_name": "Somali",
+                "female_name": "Somali"
+            },
+            "ru": {
+                "plural_name": "Сомалийцы",
+                "male_name": "Сомалиец",
+                "female_name": "Сомалийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Songhai",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сонгай",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Soninke",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сонинке",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sotho",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Басуто",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Spaniards",
+                "male_name": "Spaniard",
+                "female_name": "Spaniard"
+            },
+            "ru": {
+                "plural_name": "Испанцы",
+                "male_name": "Испанец",
+                "female_name": "Испанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sui",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Шуйцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sumba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сумбанцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sundanese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сунды",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sukuma",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сукума",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sumbawa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сумбаванцы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Surma",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сурма",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Susu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сусу",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Swahili",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Суахили",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Swazi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Свази",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Swedes",
+                "male_name": "Swede",
+                "female_name": "Swede"
+            },
+            "ru": {
+                "plural_name": "Шведы",
+                "male_name": "Швед",
+                "female_name": "Шведка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Sylhetis",
+                "male_name": "Sylheti",
+                "female_name": "Sylheti"
+            },
+            "ru": {
+                "plural_name": "Силхеты",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tabasaran",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Табасаранцы",
+                "male_name": "Табасаранец",
+                "female_name": "Табасаранка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tagalogs",
+                "male_name": "Tagalog",
+                "female_name": "Tagalog"
+            },
+            "ru": {
+                "plural_name": "Тагалы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tahitians",
+                "male_name": "Tahitian",
+                "female_name": "Tahitian"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tajiks",
+                "male_name": "Tajik",
+                "female_name": "Tajik"
+            },
+            "ru": {
+                "plural_name": "Таджики",
+                "male_name": "Таджик",
+                "female_name": "Таджичка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Talysh",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Талыши",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tama",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тама",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tamils",
+                "male_name": "Tamil",
+                "female_name": "Tamil"
+            },
+            "ru": {
+                "plural_name": "Тамилы",
+                "male_name": "Тамилец",
+                "female_name": "Тамилка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tarok",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тарок",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tatars",
+                "male_name": "Tatar",
+                "female_name": "Tatar"
+            },
+            "ru": {
+                "plural_name": "Татары",
+                "male_name": "Татарин",
+                "female_name": "Татарка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tausūg",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Сулу",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tboli",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тболи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Telugu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Телугу",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Temne",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Thais",
+                "male_name": "Thai",
+                "female_name": "Thai"
+            },
+            "ru": {
+                "plural_name": "Тайцы",
+                "male_name": "Таец",
+                "female_name": "Тайка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tibetans",
+                "male_name": "Tibetan",
+                "female_name": "Tibetan"
+            },
+            "ru": {
+                "plural_name": "Тибетцы",
+                "male_name": "Тибетец",
+                "female_name": "Тибетка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tigrayans",
+                "male_name": "Tigrayan",
+                "female_name": "Tigrayan"
+            },
+            "ru": {
+                "plural_name": "Тиграи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tigre",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тигре",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tiv",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tiwa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tlapanec",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Toraja",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тораджи",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Toubou",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тубу",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Toucouleur",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тукулёр",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tripuri",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tsonga",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tswana",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тсавана",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tujia",
+                "male_name": "Tujium",
+                "female_name": "Tujium"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tupuri",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тупури",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Turkana",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Туркана",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Turks",
+                "male_name": "Turk",
+                "female_name": "Turk"
+            },
+            "ru": {
+                "plural_name": "Турки",
+                "male_name": "Турок",
+                "female_name": "Турчанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Turkmens",
+                "male_name": "Turkmen",
+                "female_name": "Turkmen"
+            },
+            "ru": {
+                "plural_name": "Туркмены",
+                "male_name": "Туркмен",
+                "female_name": "Туркменка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tutsi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Тутси",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Tuvans",
+                "male_name": "Tuvan",
+                "female_name": "Tuvan"
+            },
+            "ru": {
+                "plural_name": "Тувинцы",
+                "male_name": "Тувинец",
+                "female_name": "Тувинка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Udmurts",
+                "male_name": "Udmurt",
+                "female_name": "Udmurt"
+            },
+            "ru": {
+                "plural_name": "Удмурты",
+                "male_name": "Удмурт",
+                "female_name": "Удмуртка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Urhobos",
+                "male_name": "Urhobo",
+                "female_name": "Urhobo"
+            },
+            "ru": {
+                "plural_name": "Урхобо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Ukrainians",
+                "male_name": "Ukrainian",
+                "female_name": "Ukrainian"
+            },
+            "ru": {
+                "plural_name": "Украинцы",
+                "male_name": "Украинец",
+                "female_name": "Украинка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Uyghurs",
+                "male_name": "Uyghur",
+                "female_name": "Uyghur"
+            },
+            "ru": {
+                "plural_name": "Уйгуры",
+                "male_name": "Уйгур",
+                "female_name": "Уйгурка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Uzbeks",
+                "male_name": "Uzbek",
+                "female_name": "Uzbek"
+            },
+            "ru": {
+                "plural_name": "Узбеки",
+                "male_name": "Узбек",
+                "female_name": "Узбечка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Venda",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Венда",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Vietnamese",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Вьетнамцы",
+                "male_name": "Вьетнамец",
+                "female_name": "Вьетнамка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Visayans",
+                "male_name": "Visayan",
+                "female_name": "Visayan"
+            },
+            "ru": {
+                "plural_name": "Висайя",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Wa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Ва",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Walloons",
+                "male_name": "Walloon",
+                "female_name": "Walloon"
+            },
+            "ru": {
+                "plural_name": "Валлоны",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Waxiang",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Welayta",
+                "male_name": "Welaytum",
+                "female_name": "Welaytum"
+            },
+            "ru": {
+                "plural_name": null,
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Welsh",
+                "male_name": "Welshman",
+                "female_name": "Welshwoman"
+            },
+            "ru": {
+                "plural_name": "Валлийцы",
+                "male_name": "Валлиец",
+                "female_name": "Валлийка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Wolof",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Волоф",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Xhosa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Коса",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Yakan",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Коса",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Yakö",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Якурры",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Yakuts",
+                "male_name": "Yakut",
+                "female_name": "Yakut"
+            },
+            "ru": {
+                "plural_name": "Якуты",
+                "male_name": "Якут",
+                "female_name": "Якутка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Yao",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Яо",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Yi",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "И",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Yoruba",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Йоруба",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Zaghawa",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Загава",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Zande",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Занде",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Zapotecs",
+                "male_name": "Zapotec",
+                "female_name": "Zapotec"
+            },
+            "ru": {
+                "plural_name": "Сапотеки",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Zhuang",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Чжуаны",
+                "male_name": "Чжуанец",
+                "female_name": "Чжуанка"
+            }
+        }
+    },
+    {
+        "native_name": null,
+        "translations": {
+            "en": {
+                "plural_name": "Zulu",
+                "male_name": null,
+                "female_name": null
+            },
+            "ru": {
+                "plural_name": "Зулусы",
+                "male_name": null,
+                "female_name": null
+            }
+        }
+    }
+]
